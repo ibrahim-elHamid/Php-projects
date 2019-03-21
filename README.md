@@ -1,2 +1,2 @@
-# Php-projects
+# kiJamiiTask
 Application for online-shopping 
